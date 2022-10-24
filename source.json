@@ -100,7 +100,7 @@
 
      "CopyManHua":{
       "baseUrl":"https://copymanga.site",
-      "serverUrl":"https://api.copymanga.net"
+      "search":"/search/?q="
     }
 
 
